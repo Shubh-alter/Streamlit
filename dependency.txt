@@ -1,0 +1,10 @@
+streamlit 
+transformers
+replicate 
+
+Need API for Pexels and Hugging Face
+YT Tutorial: 
+    API Key HuggingFace ::  https://www.youtube.com/watch?v=lecY8PGvzgY
+    API Key Pexels      ::  https://www.youtube.com/watch?v=_wvWuMK4IXw
+    API Key Replicate   ::  https://youtu.be/LGNvnu2imPo?si=SvAHj-3eQhinqt0J&t=1183
+    
